@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.38c49fd9810a36fbc887fa6c4e84681e.js"
+  "/precache-manifest.a1cf1eec1f817cb3290409d371139c64.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fruktkartan"});
